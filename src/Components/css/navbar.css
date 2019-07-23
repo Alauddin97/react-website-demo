@@ -1,0 +1,30 @@
+.navbar{
+    border: 3px solid gray;
+    font-size: 20px;
+    padding: 2px;
+    padding-left: 60px;
+    background-color:gray;
+    color: whitesmoke;
+    min-height: 30px;
+
+}
+
+.b{
+    padding: 30px; 
+    display: inline;
+}
+
+.b:hover{
+    color: aqua;
+    cursor: pointer;
+}
+
+@media screen and (max-width:600px){
+    .navbar{
+        min-height: 30;
+    }
+    .b{
+        padding: 5px;
+        display: flex;
+    }
+}

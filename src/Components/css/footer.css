@@ -1,0 +1,9 @@
+footer{
+    background-color: gray;
+    min-height: 40px;
+    text-align: center;
+    padding: 10px;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: antiquewhite;
+}
